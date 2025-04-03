@@ -15,17 +15,20 @@ class Program
         Thread corredorB = new Thread(Correr);
         Thread corredorC = new Thread(Correr);
         Thread corredorD = new Thread(Correr);
+        Thread corredorE = new Thread(Correr);// se agrego un 5° corredor 
 
         corredorA.Start("Corredor A");
         corredorB.Start("Corredor B");
         corredorC.Start("Corredor C");
         corredorD.Start("corredor D");
+        corredorE.Start("corredor E");
 
 
         corredorA.Join();
         corredorB.Join();
         corredorC.Join();
         corredorD.Join();
+        corredorE.Join();
 
         Console.WriteLine("¡Carrera terminada!");
     }

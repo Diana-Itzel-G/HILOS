@@ -12,3 +12,10 @@ C:\Users\luzes\Source\Repos\HILOS\Corredores\obj\Debug\Corredores.csproj.Assembl
 C:\Users\luzes\Source\Repos\HILOS\Corredores\obj\Debug\Corredores.csproj.CoreCompileInputs.cache
 C:\Users\luzes\Source\Repos\HILOS\Corredores\obj\Debug\Corredores.exe
 C:\Users\luzes\Source\Repos\HILOS\Corredores\obj\Debug\Corredores.pdb
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\bin\Debug\Corredores.exe.config
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\bin\Debug\Corredores.exe
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\bin\Debug\Corredores.pdb
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\obj\Debug\Corredores.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\obj\Debug\Corredores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\obj\Debug\Corredores.exe
+C:\Users\Usuario\source\repos\Consola\HILOS\Corredores\obj\Debug\Corredores.pdb
